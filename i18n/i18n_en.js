@@ -21,7 +21,7 @@ var TEXT_RESTART = "[&#x21BB;] Restart questionnaire"
 var TEXT_RESULTS_HEADING = "Your match with the different positions"
 var TEXT_RESULTS_RECOMMENDATION = "Our recommendation for your new laptop"
 
-var TEXT_RESULTS_INFO_THESES = "You can adjust your own opinion in the second row and reevaluate the result. <br /> Answers to the questions are shown on click on the corresponding question."
+var TEXT_RESULTS_INFO_THESES = "Answers to the questions are shown on click on the corresponding question."
 var TEXT_RESULTS_INFO_PARTIES = "Analysis"
 
 var TEXT_RESULTS_BUTTON_THESES = "Questions and answers of parties"

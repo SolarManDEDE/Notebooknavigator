@@ -172,7 +172,7 @@ var descriptionExplanation = "Klicke Dich durch die Fragen, und bestelle im Ansc
 
 // Optionaler Hinweis oberhalb der Detail-Ergebnisse (Text und Internet-Link)
 var resultsInfoText = "Über den folgenden Link kommst du zur Bestellung deines neuen Laptops";
-var resultsInfoLink = "http://Link.auf.Bestellseite.html";
+var resultsInfoLink = "https://mailing.sparkasse-dortmund.de/-survey2/6487/116/SVf3t";
 
 // 	--------------------------------------------------------------------
 
